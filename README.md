@@ -48,6 +48,23 @@ There are many types of particles and their tracks. It consists of alpha, beta, 
 
 For the cloud chamber tracking projects, we use one hour of video of the cloud chamber where a camera is placed resting on top of the chamber looking through the glass to record. The videos that are being taken are in a completely dark room to ensure constant light levels and a more constant background. If you are interested to see the screenshot of a frame of the video of cloud chamber, it will attach in the results part to ease and have a better understanding about our project.
 
+2.1 Experimental Procedure
+
+Soak the tissue/felt with isopropanol and stick it on the top of the transparent container.
+Cut the dark/black paper into the shape of the container’s lid.
+Close the container with lid and let the alcohol vapour fill the container.
+Place the container on top of a dry ice(flat surface)
+Light up the lower region of the container using a flashlight to enhance track visibility.
+
+2.2 Scientific Explanation
+
+Alcohol vapour from the tissue/felt filled up the chamber as the chamber being cooled by the dry ice.
+Decreasing temperature creates internal energy and saturated alcohol vapour.
+Ionising radiation that passes through the saturated vapour creating visible cloudy tracks.
+
+We used a cloud chamber to explore and see the tracks created while moving through a dense gas where we observe radiation from cosmic rays indirectly in the cloud chamber. Cloud chamber plays a crucial role in our project and helps us to make an automatic video frame capture of cloud chamber particle events. 
+
+
 
 
 
