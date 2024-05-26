@@ -37,6 +37,18 @@ NumPy is a python library. The term NumPy is a short term for Numerical Python. 
 
 When using Python, we have lists that serve the purpose of arrays, but it takes time to process. NumPy works to provide an array object that is up to 50x faster than traditional Python lists. The efficiency gains are primarily due to Numpy storing array elements in an ordered single location within memory, eliminating redundancies by having all elements be the same type and make full use of modern CPUs. The efficiency advantages become particularly apparent when operating on arrays with thousand or millions of elements, which are pretty usual within data science. Next, It provides an indexing syntax that makes it simple to access specific data in an array. Besides, it contains built-in functions that improve quality of life when working with arrays and mathematics, such as functions for linear algebra, array transformations, and matrix mathematics. Finally, it only used fewer lines of codes for most mathematical operations than native Python lists. For NumPy, it is a Python library and written partially in Python, but most of the parts that require fast computation are written in C or C++. For reference and source code for NumPy, the github repository will be provided in the references. 
 
+# Cloud Chamber 
+
+A cloud chamber was developed by Thomson Rees Wilson in 1894. Cloud chambers also are known as Wilson chamber. It is a subatomic particle detector that can be easily built and accessible to students and also scientists. C.T.R Wilson has won a Nobel prize for his invention, which contributed to the field of nuclear physics through discoveries of subatomic particles including the positron, muon and kaon. Cloud chamber is a useful device that is less expensive to construct and suitable to detect ionising particles and to determine their trajectories. But its limitation is not being able to detect high energy particles and both are
+not capable of recording and detecting particles automatically. However, it is suitable for small scale research and its main advantage is that we can see the track of the particles with our naked eyes. 
+
+A simple cloud chamber works in a way that the alcohol inside the chamber evaporates in the top half and then sinks to the bottom half. Here, the alcohol vapour will be cooled and become supersaturated. Then, when energetic particles from radioactive materials or cosmic rays pass through the alcohol vapour, it will condense and leave tracks in the chamber. 
+
+There are many types of particles and their tracks. It consists of alpha, beta, electron, muon, photoelectron and many others. Alpha and beta radiation are ionising radiations. As the alpha and beta particles interact with the alcohol vapour, electrons are knocked off from the alcohol molecules due to electrostatic interaction producing trails of ionised particles. These ionised particles act as condensation centres; a trail of mist consisting of small droplets of gaseous alcohol produce around them. The trails of mist are the tracks that we see in the cloud chamber. These tracks last for several seconds. The tracks produced mainly and originated from cosmic rays and it also can detect tracks from radioactive sources. 
+
+For the cloud chamber tracking projects, we use one hour of video of the cloud chamber where a camera is placed resting on top of the chamber looking through the glass to record. The videos that are being taken are in a completely dark room to ensure constant light levels and a more constant background. If you are interested to see the screenshot of a frame of the video of cloud chamber, it will attach in the results part to ease and have a better understanding about our project.
+
+
 
 
 
